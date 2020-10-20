@@ -56,4 +56,4 @@ This graph shows that for each tested resolution, the average iteration runtime 
 This chart shows that the average runtime per iteration increases with increasing filter sizes, however the runtime increase is smaller as the filter goes up. The increase in runtime is still significant though. 
 
 ### Bloopers
-![](img/renders/prj4/prj4Blooper.png =100x)
+![](img/renders/prj4/prj4Blooper.png)
